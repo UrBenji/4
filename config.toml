@@ -57,7 +57,7 @@ icon = "ti-twitter-alt"
 URL = "https://www.facebook.com/ben.harriott"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "https://www.instagram.com/urben.eth/"
 icon = "ti-instagram"
 [[params.social]]
 URL = "#"
