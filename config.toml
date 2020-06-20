@@ -4,23 +4,21 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-url = "mailto: urbenji@protonmail.com"
-weight = 4
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
+URL = "about"
+name = "About"
+weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-url = "https://beta.cent.co/urben"
-weight = 2
+weight = 3
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "portfolio"
+name = "Portfolio"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = "The Blockchain"
 author = ""
@@ -50,7 +48,7 @@ URL = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [[params.social]]
 URL = "https://twitter.com/urben"
