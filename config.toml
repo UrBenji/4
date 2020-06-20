@@ -6,6 +6,7 @@ title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
+url = "mailto: urbenji@protonmail.com"
 weight = 4
 [[menu.main]]
 URL = "portfolio"
