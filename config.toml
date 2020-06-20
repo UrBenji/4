@@ -27,7 +27,7 @@ description = "Lens Based Art"
 email = "urbenji@protonmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "/images/static1-squarespace-1.png"
+logo = "/images/illustrations/dots-orange.svg"
 phone = "+44 7786 972187"
 theme_color = "#41228e"
 [params.contact]
