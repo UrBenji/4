@@ -51,7 +51,10 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
+URL = "https://twitter.com/urben"
+icon = "ti-twitter-alt"
+[[params.social]]
+URL = "https://www.facebook.com/ben.harriott"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
@@ -59,6 +62,3 @@ icon = "ti-instagram"
 [[params.social]]
 URL = "#"
 icon = "ti-dribbble"
-[[params.social]]
-URL = "https://twitter.com/urben"
-icon = "ti-twitter-alt"
